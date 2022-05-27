@@ -1,0 +1,18 @@
+.thead-top {
+    padding: 0.5rem 1rem !important;
+}
+
+.pagination {
+    flex-wrap: wrap;
+}
+
+.loadingOverlay_overlay {
+    opacity: 0.8 !important;
+    background-color: white !important;
+}
+.loadingOverlay_content {
+    color: black !important;
+}
+.loadingOverlay_spinner svg circle{
+    stroke: black !important;
+}

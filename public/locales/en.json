@@ -1,0 +1,30 @@
+{
+    "app_name": "App",
+    "home": "Home",
+    "login": "Sign In",
+    "page_not_found": "Page not found",
+    "language": "Language",
+    "es": "ES",
+    "en": "EN",
+    "register": "Sign Up",
+    "configuration": "Configuration",
+    "logout": "Sign Out",
+    "my_profile": "My profile",
+    "examples": "Examples",
+    "add_list": "Add list",
+    "name": "Name",
+    "search": "Search",
+    "create": "Create",
+    "export": "Export",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+
+    "table": "Table",
+    "country": "Country",
+    "province": "Province",
+    "city": "City",
+
+    "total_rows": "Found items: {{count}}",
+    "items_per_page": "Items per page"
+}

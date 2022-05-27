@@ -1,0 +1,31 @@
+{
+    "app_name": "App",
+    "home": "Inicio",
+    "login": "Iniciar sesión",
+    "page_not_found": "Página no encontrada",
+    "language": "Idioma",
+    "es": "ES",
+    "en": "EN",
+    "register": "Regístrate",
+    "configuration": "Configuración",
+    "logout": "Cerrar sesión",
+    "my_profile": "Mi perfil",
+    "examples": "Ejemplos",
+    "add_list": "Añadir lista",
+    "name": "Nombre",
+    "search": "Buscar",
+    "create": "Añadir",
+    "export": "Exportar",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "page": "Página",
+
+    "table": "Table",
+    "country": "País",
+    "province": "Provincia",
+    "city": "Ciudad",
+
+    "total_rows": "Registros encontrados: {{count}}",
+    "items_per_page": "Registros por página"
+
+}
